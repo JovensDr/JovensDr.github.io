@@ -1,0 +1,44 @@
+header{
+	margin-bottom: 50px;
+	
+	
+}
+.navbar{
+	width: 100%;
+	background: #fff !important;
+	border:0 !important;
+	margin-bottom: 10px;
+	opacity: 0.9;
+	border-radius: 0 !important;
+}
+.navbar li a, .navbar .navbar-brand{
+	color: #01579b !important;
+	transition: .5s all;
+}
+.navbar li a:hover{
+	color: #000 !important;
+}
+.navbar-nav li.active a{
+	color: #d5d5d5 !important;
+	background: #29292c !important;
+}
+.navbar-default .navbar-toggle{
+	border-color: transparent !important;
+}
+ .dropdown-toggle{
+	color: #fff;
+	background-color: #fff!important;
+	opacity: 0.9 !important;
+}
+.dropdown-menu li{
+	background: #fff !important;
+	opacity: 0.5;
+	text-align: center !important;
+}
+.dropdown-menu li a{
+	color: #000 !important;
+}
+.dropdown-menu li a:hover{
+	background-color: #01579b !important;
+	color: #fff !important;
+}
